@@ -1,7 +1,7 @@
 # HRM-10-FNIRSI-RESISTENCIA-DE-BATERIAS
 TABLAS REALEAS
 
-| Modelo  | Valor      |Material|Voltaje|Marca|Potencia|
+| Modelo  | Resistencia Interna      |Material|Voltaje|Marca|Potencia|
 |----------|------------|---|---|---|---|
 | CR-2032  | 80-90 Ω    |Lithium| 3 VDC| Beston| |
 |CGR18650CG| 100 mΩ| Li-Ion|3.7 VDC| Sin marca| |
