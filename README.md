@@ -1,4 +1,7 @@
 # HRM-10-FNIRSI-RESISTENCIA-DE-BATERIAS
+
+![alt text](fnirsi-hrm-10-battery-voltage-internal-resistance-testerpower-performancefnirsifnirsi-3238214.webp)
+
 TABLAS REALEAS
 
 | Modelo  | Resistencia Interna      |Material|Voltaje|Marca|Potencia|
