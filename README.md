@@ -2,7 +2,7 @@
 
 ![alt text](fnirsi-hrm-10-battery-voltage-internal-resistance-testerpower-performancefnirsifnirsi-3238214.webp)
 
-TABLAS REALEAS
+TABLAS REALES
 
 | Modelo  | Resistencia Interna      |Material|Voltaje|Marca|Potencia|
 |----------|------------|---|---|---|---|
